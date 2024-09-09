@@ -327,5 +327,12 @@ module.exports = {
       icon: "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
       decimals: 6,
     },
+    {
+      token:"terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n",
+      symbol: "FORTIVA",
+      name: "FORTIVA REWARDS",
+      icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
+      decimals: 6,
+    },
   ],
 }
