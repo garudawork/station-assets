@@ -334,5 +334,12 @@ module.exports = {
       icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
       decimals: 6,
     },
+    {
+      token:"terra1le9l8gpwl2f48xluphnwkqrnhwxqt27xhducfzqvncmsh9swavlqjpy7c9",
+      symbol: "FUN",
+      name: "FUN TOKEN",
+      icon: "https://i.ibb.co/YjH9BS1/Go-Art-1726502578253.png",
+      decimals: 6,
+    },
   ],
 }
