@@ -341,5 +341,12 @@ module.exports = {
       icon: "https://i.ibb.co/YjH9BS1/Go-Art-1726502578253.png",
       decimals: 6,
     },
+    {
+      token:"terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
+      symbol: "REX",
+      name: "REX",
+      icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
+      decimals: 6,
+    },
   ],
 }
